@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jbetfairng">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jbetfairng-master/out/artifacts/jbetfairng_jar/jbetfairng.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

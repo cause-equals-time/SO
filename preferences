@@ -1,0 +1,9 @@
+stake=2
+backOffSet=5
+layOffSet=10
+control=false
+liability=true
+multiStake=false
+stopLoss=true
+anchor=true
+loss=4

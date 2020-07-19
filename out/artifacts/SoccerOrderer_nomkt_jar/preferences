@@ -1,0 +1,13 @@
+backStake=2
+backOffSet=5
+layStake=2
+layOffSet=30
+control=false
+n1Stakes=2
+odd1=1.01
+n2Stakes=2
+odd2=1.01
+liability=true
+multiStake=false
+stopLoss=true
+loss=4
